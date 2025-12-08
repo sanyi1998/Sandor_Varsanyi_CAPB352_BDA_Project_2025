@@ -1,0 +1,133 @@
+﻿team_id;team_name;league_id
+BL_ARM_1;Arminia;BL_1
+BL_AUG_2;Augsburg;BL_1
+BL_BAY_3;Bayern Munich;BL_1
+BL_BVB_4;Dortmund;BL_1
+BL_FRA_5;Eint Frankfurt;BL_1
+BL_FRE_6;Freiburg;BL_1
+BL_GLA_7;Gladbach;BL_1
+BL_HER_8;Hertha BSC;BL_1
+BL_HOF_9;Hoffenheim;BL_1
+BL_KÖL_11;Köln;BL_1
+BL_LEV_12;Leverkusen;BL_1
+BL_MAI_13;Mainz 05;BL_1
+BL_LEI_14;RB Leipzig;BL_1
+BL_SCH_15;Schalke 04;BL_1
+BL_STU_16;Stuttgart;BL_1
+BL_UNI_17;Union Berlin;BL_1
+BL_BRE_18;Werder Bremen;BL_1
+BL_WOL_19;Wolfsburg;BL_1
+BL_BOC_20;Bochum;BL_1
+BL_FÜR_21;Greuther Fürth;BL_1
+BL_DAR_22;Darmstadt 98;BL_1
+BL_HEI_23;Heidenheim;BL_1
+BL_KIE_24;Holstein Kiel;BL_1
+BL_STP_25;St. Pauli;BL_1
+LL_ALA_1;Alavés;LL_1
+LL_BIL_2;Athletic Club;LL_1
+LL_ATM_3;Atlético Madrid;LL_1
+LL_BAR_4;Barcelona;LL_1
+LL_BET_5;Betis;LL_1
+LL_CAD_6;Cádiz;LL_1
+LL_CEL_7;Celta Vigo;LL_1
+LL_EIB_8;Eibar;LL_1
+LL_ELC_9;Elche;LL_1
+LL_GET_10;Getafe;LL_1
+LL_GRA_11;Granada;LL_1
+LL_HUE_12;Huesca;LL_1
+LL_LEV_13;Levante;LL_1
+LL_OSA_14;Osasuna;LL_1
+LL_RMA_15;Real Madrid;LL_1
+LL_RSC_16;Real Sociedad;LL_1
+LL_SEV_17;Sevilla;LL_1
+LL_VAL_18;Valencia;LL_1
+LL_VLD_19;Valladolid;LL_1
+LL_VLR_20;Villarreal;LL_1
+LL_ESP_21;Espanyol;LL_1
+LL_MAL_22;Mallorca;LL_1
+LL_RAY_23;Rayo Vallecano;LL_1
+LL_ALM_24;Almería;LL_1
+LL_GIR_25;Girona;LL_1
+LL_LAP_26;Las Palmas;LL_1
+LL_LEG_27;Leganés;LL_1
+SA_ATL_1;Atalanta;SA_1
+SA_BEE_2;Benevento;SA_1
+SA_BOL_3;Bologna;SA_1
+SA_CAL_4;Cagliari;SA_1
+SA_CRT_5;Crotone;SA_1
+SA_FIR_6;Fiorentina;SA_1
+SA_GEO_7;Genoa;SA_1
+SA_HEL_8;Hellas Verona;SA_1
+SA_INT_9;Inter;SA_1
+SA_JUV_10;Juventus;SA_1
+SA_LAZ_11;Lazio;SA_1
+SA_MIL_12;Milan;SA_1
+SA_NAP_13;Napoli;SA_1
+SA_PAM_14;Parma;SA_1
+SA_ROM_15;Roma;SA_1
+SA_SAP_16;Sampdoria;SA_1
+SA_SAS_17;Sassuolo;SA_1
+SA_SPZ_18;Spezia;SA_1
+SA_TOR_19;Torino;SA_1
+SA_UDN_20;Udinese;SA_1
+SA_EMP_21;Empoli;SA_1
+SA_SAL_22;Salernitana;SA_1
+SA_VEN_23;Venezia;SA_1
+SA_CRM_24;Cremonese;SA_1
+SA_LEC_25;Lecce;SA_1
+SA_MON_26;Monza;SA_1
+SA_FRS_27;Frosinone;SA_1
+SA_COO_28;Como;SA_1
+L1_ANG_1;Angers;L1_1
+L1_BOR_2;Bordeaux;L1_1
+L1_BRE_3;Brest;L1_1
+L1_DIJ_4;Dijon;L1_1
+L1_LEN_5;Lens;L1_1
+L1_LIL_6;Lille;L1_1
+L1_LOR_7;Lorient;L1_1
+L1_LYO_8;Lyon;L1_1
+L1_MAR_9;Marseille;L1_1
+L1_MET_10;Metz;L1_1
+L1_MON_11;Monaco;L1_1
+L1_MOP_12;Montpellier;L1_1
+L1_NAN_13;Nantes;L1_1
+L1_NIC_14;Nice;L1_1
+L1_NÎM_15;Nîmes;L1_1
+L1_PSG_16;Paris S-G;L1_1
+L1_REI_17;Reims;L1_1
+L1_REN_18;Rennes;L1_1
+L1_SAI_19;Saint-Étienne;L1_1
+L1_STR_20;Strasbourg;L1_1
+L1_CLE_21;Clermont Foot;L1_1
+L1_TRO_22;Troyes;L1_1
+L1_AJA_23;Ajaccio;L1_1
+L1_AUX_24;Auxerre;L1_1
+L1_TOU_25;Toulouse;L1_1
+L1_LEH_26;Le Havre;L1_1
+PL_ARS_1;Arsenal;PL_1
+PL_AST_2;Aston Villa;PL_1
+PL_BOU_3;Bournemouth;PL_1
+PL_BRE_4;Brentford;PL_1
+PL_BRI_5;Brighton;PL_1
+PL_CHE_6;Chelsea;PL_1
+PL_CRY_7;Crystal Palace;PL_1
+PL_EVE_8;Everton;PL_1
+PL_FUL_9;Fulham;PL_1
+PL_IPS_10;Ipswich Town;PL_1
+PL_LEI_11;Leicester City;PL_1
+PL_LIV_12;Liverpool;PL_1
+PL_MCI_13;Manchester City;PL_1
+PL_MUN_14;Manchester Utd;PL_1
+PL_NEW_15;Newcastle Utd;PL_1
+PL_NOT_16;Nott'ham Forest;PL_1
+PL_SOU_17;Southampton;PL_1
+PL_TOT_18;Tottenham;PL_1
+PL_WES_19;West Ham;PL_1
+PL_WOL_20;Wolves;PL_1
+PL_BUR_21;Burnley;PL_1
+PL_LUT_22;Luton Town;PL_1
+PL_SHE_23;Sheffield Utd;PL_1
+PL_LEE_24;Leeds United;PL_1
+PL_NOR_25;Norwich City;PL_1
+PL_WAT_26;Watford;PL_1
+PL_WES_27;West Brom;PL_1

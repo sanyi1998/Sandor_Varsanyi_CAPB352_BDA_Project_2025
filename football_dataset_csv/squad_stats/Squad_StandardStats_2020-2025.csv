@@ -1,0 +1,487 @@
+﻿team_id;league_id;season_id;Rk;Squad;Country;LgRk;MP;W;D;L;GF;GA;GD;Pts;Pts/MP;Attendance;Top Team Scorer;Goalkeeper
+L1_PSG_16;L1_1;5;1;Paris S-G;fr FRA;1;34;26;6;2;92;35;57;84;2.47;47,413;Ousmane Dembélé - 21;Gianluigi Donnarumma
+BL_BAY_3;BL_1;5;2;Bayern Munich;de GER;1;34;25;7;2;99;32;67;82;2.41;75;Harry Kane - 26;Manuel Neuer
+LL_BAR_4;LL_1;5;3;Barcelona;es ESP;1;38;28;4;6;102;39;63;88;2.32;45,953;Robert Lewandowski - 27;Iñaki Peña
+PL_LIV_12;PL_1;5;4;Liverpool;eng ENG;1;38;25;9;4;86;41;45;84;45709;60,324;Mohamed Salah - 29;Alisson
+LL_RMA_15;LL_1;5;5;Real Madrid;es ESP;2;38;26;6;6;78;38;40;84;45709;69,807;Kylian Mbappé - 31;Thibaut Courtois
+SA_NAP_13;SA_1;5;6;Napoli;it ITA;1;38;24;10;4;59;27;32;82;45704;50,909;Romelu Lukaku - 14;Alex Meret
+SA_INT_9;SA_1;5;7;Inter;it ITA;2;38;24;9;5;79;35;44;81;45701;70,126;Marcus Thuram - 14;Yann Sommer
+BL_LEV_12;BL_1;5;8;Leverkusen;de GER;2;34;19;12;3;72;43;29;69;45691;29,961;Patrik Schick - 21;Lukáš Hrádecký
+LL_ATM_3;LL_1;5;9;Atlético Madrid;es ESP;3;38;22;10;6;68;30;38;76;2.00;60,883;Alexander Sørloth - 20;Jan Oblak
+SA_ATL_1;SA_1;5;10;Atalanta;it ITA;3;38;22;8;8;78;37;41;74;1.95;22,675;Mateo Retegui - 25;Marco Carnesecchi
+PL_ARS_1;PL_1;5;11;Arsenal;eng ENG;2;38;20;14;4;69;34;35;74;1.95;60,251;Kai Havertz - 9;David Raya
+L1_MAR_9;L1_1;5;12;Marseille;fr FRA;2;34;20;5;9;74;47;27;65;1.91;63,507;Mason Greenwood - 21;Gerónimo Rulli
+PL_MCI_13;PL_1;5;13;Manchester City;eng ENG;3;38;21;8;9;72;44;28;71;1.87;52,756;Erling Haaland - 22;Ederson
+LL_BIL_2;LL_1;5;14;Athletic Club;es ESP;4;38;19;13;6;54;29;25;70;1.84;48,42;Oihan Sancet - 15;Unai Simón
+SA_JUV_10;SA_1;5;15;Juventus;it ITA;4;38;18;16;4;58;35;23;70;1.84;40,275;Dušan Vlahović - 10;Michele Di Gregorio
+LL_VLR_20;LL_1;5;16;Villarreal;es ESP;5;38;20;10;8;71;51;20;70;1.84;18,266;Ayoze Pérez - 19;Diego Conde
+PL_CHE_6;PL_1;5;17;Chelsea;eng ENG;4;38;20;9;9;64;43;21;69;1.82;39,672;Cole Palmer - 15;Robert Sánchez
+SA_ROM_15;SA_1;5;18;Roma;it ITA;5;38;20;9;9;56;35;21;69;1.82;61,895;Artem Dovbyk - 12;Mile Svilar
+L1_MON_11;L1_1;5;19;Monaco;fr FRA;3;34;18;7;9;63;41;22;61;1.79;12,164;Mika Biereth - 13;Philipp Köhn
+L1_NIC_14;L1_1;5;20;Nice;fr FRA;4;34;17;9;8;66;41;25;60;1.76;24,299;Evann Guessand - 12;Marcin Bułka
+BL_FRA_5;BL_1;5;21;Eint Frankfurt;de GER;3;34;17;9;8;68;46;22;60;1.76;57,6;Omar Marmoush, Hugo Ekitike - 15;Kevin Trapp
+L1_LIL_6;L1_1;5;22;Lille;fr FRA;5;34;17;9;8;52;36;16;60;1.76;42,417;Jonathan David - 16;Lucas Chevalier
+PL_NEW_15;PL_1;5;23;Newcastle Utd;eng ENG;5;38;20;6;12;68;47;21;66;1.74;52,187;Alexander Isak - 23;Nick Pope
+PL_AST_2;PL_1;5;24;Aston Villa;eng ENG;6;38;19;9;10;58;51;7;66;1.74;42,079;Ollie Watkins - 16;Emiliano Martínez
+SA_FIR_6;SA_1;5;25;Fiorentina;it ITA;6;38;19;8;11;60;41;19;65;1.71;20,358;Moise Kean - 19;David de Gea
+PL_NOT_16;PL_1;5;26;Nott'ham Forest;eng ENG;7;38;19;8;11;58;46;12;65;1.71;30,059;Chris Wood - 20;Matz Sels
+SA_LAZ_11;SA_1;5;27;Lazio;it ITA;7;38;18;11;9;61;49;12;65;1.71;41,161;Pedro, Valentín Castellanos - 10;Ivan Provedel
+BL_BVB_4;BL_1;5;28;Dortmund;de GER;4;34;17;6;11;71;51;20;57;1.68;81,365;Serhou Guirassy - 21;Gregor Kobel
+L1_LYO_8;L1_1;5;29;Lyon;fr FRA;6;34;17;6;11;65;46;19;57;1.68;51,191;Alexandre Lacazette - 15;Lucas Perri
+L1_STR_20;L1_1;5;30;Strasbourg;fr FRA;7;34;16;9;9;56;44;12;57;1.68;19,378;Emanuel Emegha - 14;Đorđe Petrović
+SA_MIL_12;SA_1;5;31;Milan;it ITA;8;38;18;9;11;61;43;18;63;1.66;71,523;Christian Pulisic - 11;Mike Maignan
+SA_BOL_3;SA_1;5;32;Bologna;it ITA;9;38;16;14;8;57;47;10;62;1.63;27,772;Riccardo Orsolini - 15;Łukasz Skorupski
+BL_FRE_6;BL_1;5;33;Freiburg;de GER;5;34;16;7;11;49;53;-4;55;1.62;34,188;Ritsu Doan - 10;Noah Atubolu
+PL_BRI_5;PL_1;5;34;Brighton;eng ENG;8;38;16;13;9;66;59;7;61;1.61;31,798;Danny Welbeck, Kaoru Mitoma... - 10;Bart Verbruggen
+LL_BET_5;LL_1;5;35;Betis;es ESP;6;38;16;12;10;57;50;7;60;1.58;51,542;Isco - 9;Adrián
+BL_MAI_13;BL_1;5;36;Mainz 05;de GER;6;34;14;10;10;55;43;12;52;1.53;32,354;Jonathan Burkardt - 18;Robin Zentner
+L1_LEN_5;L1_1;5;37;Lens;fr FRA;8;34;15;7;12;42;39;3;52;1.53;37,971;Neil El Aynaoui - 8;Brice Samba
+No match;BL_1;5;38; RB Leipzig;de GER;7;34;13;12;9;53;48;5;51;1.50;44,803;Benjamin Šeško - 13;Péter Gulácsi
+BL_BRE_18;BL_1;5;39;Werder Bremen;de GER;8;34;14;9;11;54;57;-3;51;1.50;41,35;Jens Stage - 10;Michael Zetterer
+PL_BOU_3;PL_1;5;40;Bournemouth;eng ENG;9;38;15;11;12;58;46;12;56;1.47;11,21;Justin Kluivert - 12;Kepa Arrizabalaga
+BL_STU_16;BL_1;5;41;Stuttgart;de GER;9;34;14;8;12;64;53;11;50;1.47;59,265;Ermedin Demirović - 15;Alexander Nübel
+PL_BRE_4;PL_1;5;42;Brentford;eng ENG;10;38;16;8;14;66;57;9;56;1.47;18,742;Bryan Mbeumo - 20;Mark Flekken
+L1_BRE_3;L1_1;5;43;Brest;fr FRA;9;34;15;5;14;52;59;-7;50;1.47;14,536;Ludovic Ajorque - 13;Marco Bizot
+LL_CEL_7;LL_1;5;44;Celta Vigo;es ESP;7;38;16;7;15;59;57;2;55;1.45;21,504;Borja Iglesias - 11;Vicente Guaita
+PL_FUL_9;PL_1;5;45;Fulham;eng ENG;11;38;15;9;14;54;54;0;54;1.42;26,826;Raúl Jiménez - 12;Bernd Leno
+PL_CRY_7;PL_1;5;46;Crystal Palace;eng ENG;12;38;13;14;11;51;51;0;53;1.39;25,064;Jean-Philippe Mateta - 14;Dean Henderson
+LL_OSA_14;LL_1;5;47;Osasuna;es ESP;9;38;12;16;10;48;52;-4;52;1.37;20,476;Ante Budimir - 21;Sergio Herrera
+LL_RAY_23;LL_1;5;48;Rayo Vallecano;es ESP;8;38;13;13;12;41;45;-4;52;1.37;12,908;Jorge de Frutos - 6;Augusto Batalla
+BL_GLA_7;BL_1;5;49;Gladbach;de GER;10;34;13;6;15;55;57;-2;45;1.32;53,056;Tim Kleindienst - 16;Moritz Nicolas
+SA_COO_28;SA_1;5;50;Como;it ITA;10;38;13;10;15;49;52;-3;49;45686;10,604;Assane Diao - 8;Jean Butez
+BL_WOL_19;BL_1;5;51;Wolfsburg;de GER;11;34;11;10;13;56;54;2;43;45683;24,66;Mohamed Amoura - 10;Kamil Grabara
+PL_EVE_8;PL_1;5;52;Everton;eng ENG;13;38;11;15;12;42;44;-2;48;45683;38,439;Iliman Ndiaye - 9;Jordan Pickford
+LL_MAL_22;LL_1;5;53;Mallorca;es ESP;10;38;13;9;16;35;44;-9;48;45683;18,502;Cyle Larin, Vedat Muriqi - 7;Dominik Greif
+BL_AUG_2;BL_1;5;54;Augsburg;de GER;12;34;11;10;13;35;51;-16;43;45683;29,82;Alexis Claude-Maurice - 9;Finn Dahmen
+L1_TOU_25;L1_1;5;55;Toulouse;fr FRA;10;34;11;9;14;44;43;1;42;45681;25,593;Zakaria Aboukhlal - 7;Guillaume Restes
+L1_AUX_24;L1_1;5;56;Auxerre;fr FRA;11;34;11;9;14;48;51;-3;42;45681;16,634;Gaëtan Perrin, Hamed Junior Traorè - 10;Donovan Léon
+L1_REN_18;L1_1;5;57;Rennes;fr FRA;12;34;13;2;19;51;50;1;41;45678;27,97;Arnaud Kalimuendo - 17;Brice Samba
+LL_VAL_18;LL_1;5;58;Valencia;es ESP;12;38;11;13;14;44;54;-10;46;45678;43,042;Hugo Duro - 11;Giorgi Mamardashvili
+LL_RSC_16;LL_1;5;59;Real Sociedad;es ESP;11;38;13;7;18;35;46;-11;46;45678;29,877;Mikel Oyarzabal - 9;Álex Remiro
+BL_UNI_17;BL_1;5;60;Union Berlin;de GER;13;34;10;10;14;35;51;-16;40;45675;21,953;Benedict Hollerbach - 9;Frederik Rønnow
+SA_TOR_19;SA_1;5;61;Torino;it ITA;11;38;10;14;14;39;45;-6;44;45673;23,327;Che Adams - 9;Vanja Milinković-Savić
+SA_UDN_20;SA_1;5;62;Udinese;it ITA;12;38;12;8;18;41;56;-15;44;45673;21,098;Lorenzo Lucca - 12;Maduka Okoye
+SA_GEO_7;SA_1;5;63;Genoa;it ITA;13;38;10;13;15;37;49;-12;43;45670;31,248;Andrea Pinamonti - 10;Nicola Leali
+PL_WES_19;PL_1;5;64;West Ham;eng ENG;14;38;11;10;17;46;62;-16;43;45670;62,463;Jarrod Bowen - 13;Alphonse Areola
+LL_GET_10;LL_1;5;65;Getafe;es ESP;13;38;11;9;18;34;39;-5;42;45668;11,469;Mauro Arambarri - 10;David Soria
+PL_MUN_14;PL_1;5;66;Manchester Utd;eng ENG;15;38;11;9;18;44;54;-10;42;45668;73,747;Bruno Fernandes, Amad Diallo - 8;André Onana
+LL_ALA_1;LL_1;5;67;Alavés;es ESP;15;38;10;12;16;38;48;-10;42;45668;17,318;Kiké - 13;Antonio Sivera
+LL_ESP_21;LL_1;5;68;Espanyol;es ESP;14;38;11;9;18;40;51;-11;42;45668;25,64;Javi Puado - 12;Joan García
+PL_WOL_20;PL_1;5;69;Wolves;eng ENG;16;38;12;6;20;54;69;-15;42;45668;30,695;Matheus Cunha - 15;José Sá
+LL_SEV_17;LL_1;5;70;Sevilla;es ESP;17;38;10;11;17;42;55;-13;41;45665;35,619;Dodi Lukebakio - 11;Ørjan Nyland
+LL_GIR_25;LL_1;5;71;Girona;es ESP;16;38;11;8;19;44;60;-16;41;45665;11,657;Cristhian Stuani - 11;Paulo Gazzaniga
+L1_NAN_13;L1_1;5;72;Nantes;fr FRA;13;34;8;12;14;39;52;-13;36;45663;30,317;Matthis Abline - 9;Anthony Lopes
+L1_ANG_1;L1_1;5;73;Angers;fr FRA;14;34;10;6;18;32;53;-21;36;45663;13,142;Esteban Lepaul - 9;Yahia Fofana
+LL_LEG_27;LL_1;5;74;Leganés;es ESP;18;38;9;13;16;39;56;-17;40;45662;11,135;Dani Raba - 8;Marko Dmitrović
+PL_TOT_18;PL_1;5;75;Tottenham;eng ENG;17;38;11;5;22;64;65;-1;38;1.00;61,127;Brennan Johnson - 11;Guglielmo Vicario
+L1_LEH_26;L1_1;5;76;Le Havre;fr FRA;15;34;10;4;20;40;71;-31;34;1.00;20,218;Abdoulaye Touré - 10;Arthur Desmas
+L1_REI_17;L1_1;5;77;Reims;fr FRA;16;34;8;9;17;33;47;-14;33;0.97;15,655;Keito Nakamura - 11;Yehvann Diouf
+SA_HEL_8;SA_1;5;78;Hellas Verona;it ITA;14;38;10;7;21;34;66;-32;37;0.97;25,391;Casper Tengstedt - 6;Lorenzo Montipò
+SA_PAM_14;SA_1;5;79;Parma;it ITA;16;38;7;15;16;44;58;-14;36;0.95;19,236;Ange-Yoan Bonny - 6;Zion Suzuki
+SA_CAL_4;SA_1;5;80;Cagliari;it ITA;15;38;9;9;20;40;56;-16;36;0.95;16,071;Roberto Piccoli - 10;Elia Caprile
+BL_STP_25;BL_1;5;81;St. Pauli;de GER;14;34;8;8;18;28;41;-13;32;0.94;29,506;Morgan Guilavogui - 6;Nikola Vasilj
+BL_HOF_9;BL_1;5;82;Hoffenheim;de GER;15;34;7;11;16;46;68;-22;32;0.94;25,309;Andrej Kramarić - 11;Oliver Baumann
+SA_LEC_25;SA_1;5;83;Lecce;it ITA;17;38;8;10;20;27;58;-31;34;0.89;25,98;Nikola Krstović - 11;Wladimiro Falcone
+L1_SAI_19;L1_1;5;84;Saint-Étienne;fr FRA;17;34;8;6;20;39;77;-38;30;0.88;30,22;Lucas Stassin - 12;Gautier Larsonneur
+BL_HEI_23;BL_1;5;85;Heidenheim;de GER;16;34;8;5;21;37;64;-27;29;0.85;15;Marvin Pieringer - 7;Kevin Müller
+LL_LAP_26;LL_1;5;86;Las Palmas;es ESP;19;38;8;8;22;40;61;-21;32;0.84;23,01;Fábio Silva - 10;Jasper Cillessen
+SA_EMP_21;SA_1;5;87;Empoli;it ITA;18;38;6;13;19;33;59;-26;31;0.82;10,648;Sebastiano Esposito - 8;Devis Vásquez
+SA_VEN_23;SA_1;5;88;Venezia;it ITA;19;38;5;14;19;32;56;-24;29;0.76;10,415;Joel Pohjanpalo - 6;Filip Stankovic
+BL_KIE_24;BL_1;5;89;Holstein Kiel;de GER;17;34;6;7;21;49;80;-31;25;0.74;14,893;Shuto Machino - 11;Timon Weiner
+BL_BOC_20;BL_1;5;90;Bochum;de GER;18;34;6;7;21;33;67;-34;25;0.74;25,54;Myron Boadu - 9;Patrick Drewes
+PL_LEI_11;PL_1;5;91;Leicester City;eng ENG;18;38;6;7;25;33;80;-47;25;0.66;31,448;Jamie Vardy - 9;Mads Hermansen
+PL_IPS_10;PL_1;5;92;Ipswich Town;eng ENG;19;38;4;10;24;36;82;-46;22;0.58;29,742;Liam Delap - 12;Arijanet Muric
+SA_MON_26;SA_1;5;93;Monza;it ITA;20;38;3;9;26;28;69;-41;18;0.47;11,271;Dany Mota - 5;Stefano Turati
+L1_MOP_12;L1_1;5;94;Montpellier;fr FRA;18;34;4;4;26;23;79;-56;16;0.47;13,483;Arnaud Nordin - 4;Benjamin Lecomte
+LL_VLD_19;LL_1;5;95;Valladolid;es ESP;20;38;4;4;30;26;90;-64;16;0.42;19,831;Mamadou Sylla - 5;Karl Jakob Hein
+PL_SOU_17;PL_1;5;96;Southampton;eng ENG;20;38;2;6;30;26;86;-60;12;0.32;30,882;Paul Onuachu - 4;Aaron Ramsdale
+BL_LEV_12;BL_1;4;1;Leverkusen;de GER;1;34;28;6;0;89;24;65;90;2.65;29,994;Victor Boniface - 14;Lukáš Hrádecký
+LL_RMA_15;LL_1;4;2;Real Madrid;es ESP;1;38;29;8;1;87;26;61;95;2.50;72,061;Jude Bellingham - 19;Andriy Lunin
+SA_INT_9;SA_1;4;3;Inter;it ITA;1;38;29;7;2;89;22;67;94;2.47;72,838;Lautaro Martínez - 24;Yann Sommer
+PL_MCI_13;PL_1;4;4;Manchester City;eng ENG;1;38;28;7;3;96;34;62;91;2.39;53,012;Erling Haaland - 27;Ederson
+PL_ARS_1;PL_1;4;5;Arsenal;eng ENG;2;38;28;5;5;91;29;62;89;2.34;60,236;Bukayo Saka - 16;David Raya
+L1_PSG_16;L1_1;4;6;Paris S-G;fr FRA;1;34;22;10;2;81;33;48;76;45712;46,834;Kylian Mbappé - 27;Gianluigi Donnarumma
+LL_BAR_4;LL_1;4;7;Barcelona;es ESP;2;38;26;7;5;79;44;35;85;45712;39,846;Robert Lewandowski - 19;Marc-André ter Stegen
+PL_LIV_12;PL_1;4;8;Liverpool;eng ENG;3;38;24;10;4;86;41;45;82;45704;55,979;Mohamed Salah - 18;Alisson
+BL_STU_16;BL_1;4;9;Stuttgart;de GER;2;34;23;4;7;78;39;39;73;45703;55,089;Serhou Guirassy - 28;Alexander Nübel
+LL_GIR_25;LL_1;4;10;Girona;es ESP;3;38;25;6;7;85;46;39;81;45701;12,52;Artem Dovbyk - 24;Paulo Gazzaniga
+BL_BAY_3;BL_1;4;11;Bayern Munich;de GER;3;34;23;3;8;94;45;49;72;45700;75;Harry Kane - 36;Manuel Neuer
+LL_ATM_3;LL_1;4;12;Atlético Madrid;es ESP;4;38;24;4;10;70;43;27;76;2.00;59,121;Antoine Griezmann - 16;Jan Oblak
+SA_MIL_12;SA_1;4;13;Milan;it ITA;2;38;22;9;7;76;49;27;75;1.97;72;Olivier Giroud - 15;Mike Maignan
+L1_MON_11;L1_1;4;14;Monaco;fr FRA;2;34;20;7;7;68;42;26;67;1.97;7,884;Wissam Ben Yedder - 16;Philipp Köhn
+BL_LEI_14;BL_1;4;15;RB Leipzig;de GER;4;34;19;8;7;77;39;38;65;1.91;44,921;Loïs Openda - 24;Janis Blaswich
+SA_JUV_10;SA_1;4;16;Juventus;it ITA;3;38;19;14;5;54;31;23;71;1.87;38,142;Dušan Vlahović - 16;Wojciech Szczęsny
+BL_BVB_4;BL_1;4;17;Dortmund;de GER;5;34;18;9;7;68;43;25;63;1.85;81,305;Donyell Malen - 13;Gregor Kobel
+SA_ATL_1;SA_1;4;18;Atalanta;it ITA;4;38;21;6;11;72;42;30;69;1.82;14,725;Gianluca Scamacca, Teun Koopmeiners - 12;Marco Carnesecchi
+LL_BIL_2;LL_1;4;19;Athletic Club;es ESP;5;38;19;11;8;61;37;24;68;1.79;46,112;Gorka Guruzeta - 14;Unai Simón
+SA_BOL_3;SA_1;4;20;Bologna;it ITA;5;38;18;14;6;54;32;22;68;1.79;25,914;Joshua Zirkzee - 11;Łukasz Skorupski
+No match;L1_1;4;21; Brest;fr FRA;3;34;17;10;7;53;34;19;61;1.79;14,513;Romain Del Castillo - 8;Marco Bizot
+PL_AST_2;PL_1;4;22;Aston Villa;eng ENG;4;38;20;8;10;76;61;15;68;1.79;41,858;Ollie Watkins - 19;Emiliano Martínez
+L1_LIL_6;L1_1;4;23;Lille;fr FRA;4;34;16;11;7;52;34;18;59;1.74;39,932;Jonathan David - 19;Lucas Chevalier
+No match;PL_1;4;24; Tottenham;eng ENG;5;38;20;6;12;74;61;13;66;1.74;61,482;Son Heung-min - 17;Guglielmo Vicario
+No match;SA_1;4;25; Roma;it ITA;6;38;18;9;11;65;46;19;63;1.66;62,924;Romelu Lukaku, Paulo Dybala - 13;Rui Patrício
+No match;PL_1;4;26; Chelsea;eng ENG;6;38;18;9;11;77;63;14;63;1.66;39,524;Cole Palmer - 22;Đorđe Petrović
+No match;L1_1;4;27; Nice;fr FRA;5;34;15;10;9;40;29;11;55;1.62;24,952;Terem Moffi - 11;Marcin Bułka
+SA_LAZ_11;SA_1;4;28;Lazio;it ITA;7;38;18;7;13;49;39;10;61;1.61;42,689;Ciro Immobile - 7;Ivan Provedel
+PL_NEW_15;PL_1;4;29;Newcastle Utd;eng ENG;7;38;18;6;14;85;62;23;60;1.58;52,125;Alexander Isak - 21;Martin Dúbravka
+SA_FIR_6;SA_1;4;30;Fiorentina;it ITA;8;38;17;9;12;61;46;15;60;1.58;29,941;Nicolás González - 12;Pietro Terracciano
+LL_RSC_16;LL_1;4;31;Real Sociedad;es ESP;6;38;16;12;10;51;39;12;60;1.58;31,71;Mikel Oyarzabal - 9;Álex Remiro
+PL_MUN_14;PL_1;4;32;Manchester Utd;eng ENG;8;38;18;6;14;57;58;-1;60;1.58;73,533;Rasmus Højlund, Bruno Fernandes - 10;André Onana
+L1_LYO_8;L1_1;4;33;Lyon;fr FRA;6;34;16;5;13;49;55;-6;53;1.56;45,314;Alexandre Lacazette - 19;Anthony Lopes
+L1_LEN_5;L1_1;4;34;Lens;fr FRA;7;34;14;9;11;45;37;8;51;1.50;37,824;Elye Wahi - 9;Brice Samba
+LL_BET_5;LL_1;4;35;Betis;es ESP;7;38;14;15;9;48;45;3;57;1.50;51,259;Willian José - 10;Rui Silva
+L1_MAR_9;L1_1;4;36;Marseille;fr FRA;8;34;13;11;10;52;41;11;50;1.47;60,496;Pierre-Emerick Aubameyang - 17;Pau López
+SA_NAP_13;SA_1;4;37;Napoli;it ITA;10;38;13;14;11;55;48;7;53;1.39;45,622;Victor Osimhen - 15;Alex Meret
+SA_TOR_19;SA_1;4;38;Torino;it ITA;9;38;13;14;11;36;36;0;53;1.39;22,753;Duván Zapata - 12;Vanja Milinković-Savić
+LL_VLR_20;LL_1;4;39;Villarreal;es ESP;8;38;14;11;13;65;65;0;53;1.39;17,957;Alexander Sørloth - 23;Filip Jørgensen
+BL_FRA_5;BL_1;4;40;Eint Frankfurt;de GER;6;34;11;14;9;51;50;1;47;1.38;56,9;Omar Marmoush - 12;Kevin Trapp
+L1_REI_17;L1_1;4;41;Reims;fr FRA;9;34;13;8;13;42;47;-5;47;1.38;15,716;Teddy Teuma - 6;Yehvann Diouf
+PL_WES_19;PL_1;4;42;West Ham;eng ENG;9;38;14;10;14;60;74;-14;52;1.37;62,567;Jarrod Bowen - 16;Alphonse Areola
+L1_REN_18;L1_1;4;43;Rennes;fr FRA;10;34;12;10;12;53;46;7;46;1.35;27,663;Arnaud Kalimuendo - 10;Steve Mandanda
+BL_HOF_9;BL_1;4;44;Hoffenheim;de GER;7;34;13;7;14;66;66;0;46;1.35;24,559;Maximilian Beier - 16;Oliver Baumann
+SA_GEO_7;SA_1;4;45;Genoa;it ITA;11;38;12;13;13;45;45;0;49;45686;29,609;Albert Guðmundsson - 14;Josep Martinez
+PL_CRY_7;PL_1;4;46;Crystal Palace;eng ENG;10;38;13;10;15;57;58;-1;49;45686;24,932;Jean-Philippe Mateta - 16;Sam Johnstone
+LL_VAL_18;LL_1;4;47;Valencia;es ESP;9;38;13;10;15;40;45;-5;49;45686;43,42;Hugo Duro - 13;Giorgi Mamardashvili
+L1_TOU_25;L1_1;4;48;Toulouse;fr FRA;11;34;11;10;13;42;46;-4;43;45683;25,806;Thijs Dallinga - 14;Guillaume Restes
+PL_BRI_5;PL_1;4;49;Brighton;eng ENG;11;38;12;12;14;55;62;-7;48;45683;32,638;João Pedro - 9;Bart Verbruggen
+PL_BOU_3;PL_1;4;50;Bournemouth;eng ENG;12;38;13;9;16;54;67;-13;48;45683;11,103;Dominic Solanke - 19;Neto
+BL_HEI_23;BL_1;4;51;Heidenheim;de GER;8;34;10;12;12;50;55;-5;42;45681;15;Tim Kleindienst - 12;Kevin Müller
+PL_FUL_9;PL_1;4;52;Fulham;eng ENG;13;38;13;8;17;55;61;-6;47;45681;24,302;Rodrigo Muniz - 9;Bernd Leno
+BL_BRE_18;BL_1;4;53;Werder Bremen;de GER;9;34;11;9;14;48;54;-6;42;45681;41,721;Marvin Ducksch - 12;Michael Zetterer
+BL_FRE_6;BL_1;4;54;Freiburg;de GER;10;34;11;9;14;45;58;-13;42;45681;34,196;Vincenzo Grifo - 8;Noah Atubolu
+L1_MOP_12;L1_1;4;55;Montpellier;fr FRA;12;34;10;12;12;43;48;-5;41;45678;13,901;Téji Savanier - 9;Benjamin Lecomte
+LL_ALA_1;LL_1;4;56;Alavés;es ESP;10;38;12;10;16;36;46;-10;46;45678;17,391;Samu Omorodion - 8;Antonio Sivera
+PL_WOL_20;PL_1;4;57;Wolves;eng ENG;14;38;13;7;18;50;65;-15;46;45678;31,029;Hwang Hee-chan, Matheus Cunha - 12;José Sá
+LL_OSA_14;LL_1;4;58;Osasuna;es ESP;11;38;12;9;17;45;56;-11;45;45675;19,703;Ante Budimir - 17;Sergio Herrera
+SA_MON_26;SA_1;4;59;Monza;it ITA;12;38;11;12;15;39;51;-12;45;45675;12,172;Andrea Colpani - 8;Michele Di Gregorio
+BL_AUG_2;BL_1;4;60;Augsburg;de GER;11;34;10;9;15;50;60;-10;39;45672;29,712;Ermedin Demirović - 15;Finn Dahmen
+L1_STR_20;L1_1;4;61;Strasbourg;fr FRA;13;34;10;9;15;38;50;-12;39;45672;25,334;Emanuel Emegha - 8;Matz Sels
+LL_GET_10;LL_1;4;62;Getafe;es ESP;12;38;10;13;15;42;54;-12;43;45670;11,456;Borja Mayoral - 15;David Soria
+BL_WOL_19;BL_1;4;63;Wolfsburg;de GER;12;34;10;7;17;41;56;-15;37;45666;25,316;Jonas Wind - 11;Koen Casteels
+LL_SEV_17;LL_1;4;64;Sevilla;es ESP;14;38;10;11;17;48;54;-6;41;45665;34,984;Youssef En-Nesyri - 16;Ørjan Nyland
+LL_CEL_7;LL_1;4;65;Celta Vigo;es ESP;13;38;10;11;17;46;57;-11;41;45665;20,039;Jørgen Strand Larsen - 13;Vicente Guaita
+PL_EVE_8;PL_1;4;66;Everton;eng ENG;15;38;13;9;16;40;51;-11;40;45662;39,042;Abdoulaye Doucouré, Dominic Calvert-Lewin - 7;Jordan Pickford
+LL_MAL_22;LL_1;4;67;Mallorca;es ESP;15;38;8;16;14;33;44;-11;40;45662;17,767;Vedat Muriqi - 7;Predrag Rajković
+LL_LAP_26;LL_1;4;68;Las Palmas;es ESP;16;38;10;10;18;33;47;-14;40;45662;25,041;Kirian Rodríguez - 6;Álvaro Vallés
+PL_BRE_4;PL_1;4;69;Brentford;eng ENG;16;38;10;9;19;56;65;-9;39;45660;17,082;Yoane Wissa - 12;Mark Flekken
+BL_MAI_13;BL_1;4;70;Mainz 05;de GER;13;34;7;14;13;39;51;-12;35;45660;30,69;Jonathan Burkardt - 8;Robin Zentner
+BL_GLA_7;BL_1;4;71;Gladbach;de GER;14;34;7;13;14;56;67;-11;34;1.00;51,371;Robin Hack - 10;Moritz Nicolas
+SA_HEL_8;SA_1;4;72;Hellas Verona;it ITA;13;38;9;11;18;38;51;-13;38;1.00;21,996;Cyril Ngonge - 6;Lorenzo Montipò
+No match;LL_1;4;73; Rayo Vallecano;es ESP;17;38;8;14;16;29;48;-19;38;1.00;12,749;Álvaro García - 6;Stole Dimitrievski
+SA_LEC_25;SA_1;4;74;Lecce;it ITA;14;38;8;14;16;32;54;-22;38;1.00;26,642;Nikola Krstović - 7;Wladimiro Falcone
+SA_UDN_20;SA_1;4;75;Udinese;it ITA;15;38;6;19;13;37;53;-16;37;0.97;21,537;Lorenzo Lucca - 8;Maduka Okoye
+L1_NAN_13;L1_1;4;76;Nantes;fr FRA;14;34;9;6;19;30;55;-25;33;0.97;27,555;Mostafa Mohamed - 8;Alban Lafont
+BL_UNI_17;BL_1;4;77;Union Berlin;de GER;15;34;9;6;19;33;58;-25;33;0.97;21,84;Robin Gosens - 6;Frederik Rønnow
+BL_BOC_20;BL_1;4;78;Bochum;de GER;16;34;7;12;15;42;74;-32;33;0.97;25,393;Kevin Stöger - 7;Manuel Riemann
+SA_EMP_21;SA_1;4;79;Empoli;it ITA;17;38;9;9;20;29;54;-25;36;0.95;11,092;M'Baye Niang - 6;Elia Caprile
+SA_CAL_4;SA_1;4;80;Cagliari;it ITA;16;38;8;12;18;42;68;-26;36;0.95;16,168;Nicolas Viola - 5;Simone Scuffet
+L1_LEH_26;L1_1;4;81;Le Havre;fr FRA;15;34;7;11;16;34;45;-11;32;0.94;31,383;André Ayew, Emmanuel Sabbi... - 5;Arthur Desmas
+SA_FRS_27;SA_1;4;82;Frosinone;it ITA;18;38;8;11;19;44;69;-25;35;0.92;15,824;Matìas Soulé - 11;Stefano Turati
+LL_CAD_6;LL_1;4;83;Cádiz;es ESP;18;38;6;15;17;26;55;-29;33;0.87;18,016;Chris Ramos - 5;Jeremías Ledesma
+L1_LOR_7;L1_1;4;84;Lorient;fr FRA;17;34;7;8;19;43;66;-23;29;0.85;15,676;Mohamed Bamba - 8;Yvon Mvogo
+L1_MET_10;L1_1;4;85;Metz;fr FRA;16;34;8;5;21;35;58;-23;29;0.85;23,838;Georges Mikautadze - 13;Alexandre Oukidja
+PL_NOT_16;PL_1;4;86;Nott'ham Forest;eng ENG;17;38;9;9;20;49;67;-18;32;0.84;29,386;Chris Wood - 14;Matt Turner
+SA_SAS_17;SA_1;4;87;Sassuolo;it ITA;19;38;7;9;22;43;75;-32;30;0.79;13,905;Andrea Pinamonti - 11;Andrea Consigli
+BL_KÖL_11;BL_1;4;88;Köln;de GER;17;34;5;12;17;28;60;-32;27;0.79;49,829;Davie Selke - 6;Marvin Schwäbe
+L1_CLE_21;L1_1;4;89;Clermont Foot;fr FRA;18;34;5;10;19;26;60;-34;25;0.74;9,821;Muhammed Cham - 8;Mory Diaw
+PL_LUT_22;PL_1;4;90;Luton Town;eng ENG;18;38;6;8;24;52;85;-33;26;0.68;11,24;Carlton Morris - 11;Thomas Kaminski
+PL_BUR_21;PL_1;4;91;Burnley;eng ENG;19;38;5;9;24;41;78;-37;24;0.63;21,184;Jacob Bruun Larsen - 6;James Trafford
+LL_ALM_24;LL_1;4;92;Almería;es ESP;19;38;3;12;23;43;75;-32;21;0.55;12,893;Sergio Arribas - 9;Luís Maximiano
+LL_GRA_11;LL_1;4;93;Granada;es ESP;20;38;4;9;25;38;79;-41;21;0.55;16,35;Myrto Uzuni - 11;Augusto Batalla
+BL_DAR_22;BL_1;4;94;Darmstadt 98;de GER;18;34;3;8;23;30;86;-56;17;0.50;17,73;Tim Skarke - 8;Marcel Schuhen
+SA_SAL_22;SA_1;4;95;Salernitana;it ITA;20;38;2;11;25;32;81;-49;17;0.45;18,787;Antonio Candreva - 6;Guillermo Ochoa
+PL_SHE_23;PL_1;4;96;Sheffield Utd;eng ENG;20;38;3;7;28;35;104;-69;16;0.42;30,011;Oliver McBurnie, Ben Brereton - 6;Wes Foderingham
+SA_NAP_13;SA_1;3;1;Napoli;it ITA;1;38;28;6;4;77;28;49;90;2.37;46,173;Victor Osimhen - 26;Alex Meret
+PL_MCI_13;PL_1;3;2;Manchester City;eng ENG;1;38;28;5;5;94;33;61;89;2.34;53,249;Erling Haaland - 36;Ederson
+LL_BAR_4;LL_1;3;3;Barcelona;es ESP;1;38;28;4;6;70;20;50;88;2.32;83,498;Robert Lewandowski - 23;Marc-André ter Stegen
+L1_PSG_16;L1_1;3;4;Paris S-G;fr FRA;1;38;27;4;7;89;40;49;85;45712;46,334;Kylian Mbappé - 29;Gianluigi Donnarumma
+PL_ARS_1;PL_1;3;5;Arsenal;eng ENG;2;38;26;6;6;88;43;45;84;45709;60,191;Martin Ødegaard, Gabriel Martinelli - 15;Aaron Ramsdale
+L1_LEN_5;L1_1;3;6;Lens;fr FRA;2;38;25;9;4;68;29;39;84;45709;37,652;Loïs Openda - 21;Brice Samba
+BL_BAY_3;BL_1;3;7;Bayern Munich;de GER;1;34;21;8;5;92;38;54;71;45697;75;Serge Gnabry - 14;Yann Sommer
+BL_BVB_4;BL_1;3;8;Dortmund;de GER;2;34;22;5;7;83;44;39;71;45697;81,228;Julian Brandt, Donyell Malen... - 9;Gregor Kobel
+LL_RMA_15;LL_1;3;9;Real Madrid;es ESP;2;38;24;6;8;75;36;39;78;45693;56,649;Karim Benzema - 19;Thibaut Courtois
+LL_ATM_3;LL_1;3;10;Atlético Madrid;es ESP;3;38;23;8;7;70;33;37;77;45691;55,8;Antoine Griezmann - 15;Jan Oblak
+PL_MUN_14;PL_1;3;11;Manchester Utd;eng ENG;3;38;23;6;9;58;43;15;75;1.97;73,671;Marcus Rashford - 17;David de Gea
+SA_LAZ_11;SA_1;3;12;Lazio;it ITA;2;38;22;8;8;60;30;30;74;1.95;44,141;Ciro Immobile - 12;Ivan Provedel
+BL_LEI_14;BL_1;3;13;RB Leipzig;de GER;3;34;20;6;8;64;41;23;66;1.94;45,961;Christopher Nkunku - 16;Janis Blaswich
+L1_MAR_9;L1_1;3;14;Marseille;fr FRA;3;38;22;7;9;67;40;27;73;1.92;62,687;Alexis Sánchez - 14;Pau López
+SA_INT_9;SA_1;3;15;Inter;it ITA;3;38;23;3;12;71;42;29;72;1.89;72,63;Lautaro Martínez - 21;André Onana
+PL_NEW_15;PL_1;3;16;Newcastle Utd;eng ENG;4;38;19;14;5;68;33;35;71;1.87;52,127;Callum Wilson - 18;Nick Pope
+LL_RSC_16;LL_1;3;17;Real Sociedad;es ESP;4;38;21;8;9;51;35;16;71;1.87;32,189;Alexander Sørloth - 12;Álex Remiro
+SA_MIL_12;SA_1;3;18;Milan;it ITA;4;38;20;10;8;64;43;21;70;1.84;71,88;Rafael Leão - 15;Mike Maignan
+BL_UNI_17;BL_1;3;19;Union Berlin;de GER;4;34;18;8;8;51;38;13;62;1.82;21,822;Sheraldo Becker - 11;Frederik Rønnow
+L1_REN_18;L1_1;3;20;Rennes;fr FRA;4;38;21;5;12;69;39;30;68;1.79;27,722;Amine Gouiri - 15;Steve Mandanda
+PL_LIV_12;PL_1;3;21;Liverpool;eng ENG;5;38;19;10;9;75;47;28;67;1.76;53,163;Mohamed Salah - 19;Alisson
+L1_LIL_6;L1_1;3;22;Lille;fr FRA;5;38;19;10;9;65;44;21;67;1.76;36,148;Jonathan David - 24;Lucas Chevalier
+BL_FRE_6;BL_1;3;23;Freiburg;de GER;5;34;17;8;9;51;44;7;59;1.74;34,112;Vincenzo Grifo - 15;Mark Flekken
+L1_MON_11;L1_1;3;24;Monaco;fr FRA;6;38;19;8;11;70;58;12;65;1.71;7,095;Wissam Ben Yedder - 19;Alexander Nübel
+LL_VLR_20;LL_1;3;25;Villarreal;es ESP;5;38;19;7;12;59;40;19;64;1.68;16,406;Nicolas Jackson - 12;Pepe Reina
+SA_ATL_1;SA_1;3;26;Atalanta;it ITA;5;38;19;7;12;66;48;18;64;1.68;18,241;Ademola Lookman - 13;Juan Musso
+SA_ROM_15;SA_1;3;27;Roma;it ITA;6;38;18;9;11;50;38;12;63;1.66;62,032;Paulo Dybala - 12;Rui Patrício
+SA_JUV_10;SA_1;3;28;Juventus;it ITA;7;38;22;6;10;56;33;23;62;1.63;37,656;Dušan Vlahović - 10;Wojciech Szczęsny
+PL_BRI_5;PL_1;3;29;Brighton;eng ENG;6;38;18;8;12;72;53;19;62;1.63;31,477;Alexis Mac Allister - 10;Robert Sánchez
+L1_LYO_8;L1_1;3;30;Lyon;fr FRA;7;38;18;8;12;65;47;18;62;1.63;46,058;Alexandre Lacazette - 27;Anthony Lopes
+PL_AST_2;PL_1;3;31;Aston Villa;eng ENG;7;38;18;7;13;51;46;5;61;1.61;41,679;Ollie Watkins - 15;Emiliano Martínez
+PL_TOT_18;PL_1;3;32;Tottenham;eng ENG;8;38;18;6;14;70;63;7;60;1.58;61,585;Harry Kane - 30;Hugo Lloris
+LL_BET_5;LL_1;3;33;Betis;es ESP;6;38;17;9;12;46;41;5;60;1.58;49,635;Borja Iglesias - 15;Rui Silva
+PL_BRE_4;PL_1;3;34;Brentford;eng ENG;9;38;15;14;9;58;46;12;59;1.55;17,078;Ivan Toney - 20;David Raya
+L1_CLE_21;L1_1;3;35;Clermont Foot;fr FRA;8;38;17;8;13;45;49;-4;59;1.55;11,27;Grejohn Kyei - 10;Mory Diaw
+L1_NIC_14;L1_1;3;36;Nice;fr FRA;9;38;15;13;10;48;37;11;58;1.53;22,286;Gaëtan Laborde - 13;Kasper Schmeichel
+SA_FIR_6;SA_1;3;37;Fiorentina;it ITA;8;38;15;11;12;53;43;10;56;1.47;32,2;Arthur Cabral - 8;Pietro Terracciano
+BL_LEV_12;BL_1;3;38;Leverkusen;de GER;6;34;14;8;12;57;49;8;50;1.47;28,609;Moussa Diaby - 9;Lukáš Hrádecký
+BL_FRA_5;BL_1;3;39;Eint Frankfurt;de GER;7;34;13;11;10;58;52;6;50;1.47;50,1;Randal Kolo Muani - 15;Kevin Trapp
+L1_LOR_7;L1_1;3;40;Lorient;fr FRA;10;38;15;10;13;52;53;-1;55;1.45;14,992;Terem Moffi - 12;Yvon Mvogo
+BL_WOL_19;BL_1;3;41;Wolfsburg;de GER;8;34;13;10;11;57;48;9;49;1.44;25,394;Yannick Gerhardt, Jonas Wind - 6;Koen Casteels
+SA_BOL_3;SA_1;3;42;Bologna;it ITA;9;38;14;12;12;53;49;4;54;1.42;22,314;Riccardo Orsolini - 11;Łukasz Skorupski
+SA_TOR_19;SA_1;3;43;Torino;it ITA;10;38;14;11;13;42;41;1;53;1.39;19,464;Antonio Sanabria - 12;Vanja Milinković-Savić
+LL_OSA_14;LL_1;3;44;Osasuna;es ESP;7;38;15;8;15;37;42;-5;53;1.39;19,655;Ante Budimir, Ezequiel Ávila - 8;Aitor Fernández
+PL_FUL_9;PL_1;3;45;Fulham;eng ENG;10;38;15;7;16;55;53;2;52;1.37;23,746;Aleksandar Mitrović - 14;Bernd Leno
+SA_MON_26;SA_1;3;46;Monza;it ITA;11;38;14;10;14;48;52;-4;52;1.37;12,413;Patrick Ciurria, Carlos Augusto - 6;Michele Di Gregorio
+BL_MAI_13;BL_1;3;47;Mainz 05;de GER;9;34;12;10;12;54;55;-1;46;1.35;29,07;Marcus Ingvartsen, Karim Onisiwo - 10;Robin Zentner
+LL_BIL_2;LL_1;3;48;Athletic Club;es ESP;8;38;14;9;15;47;43;4;51;1.34;43,488;Iñaki Williams, Oihan Sancet - 10;Unai Simón
+L1_REI_17;L1_1;3;49;Reims;fr FRA;11;38;12;15;11;45;45;0;51;1.34;13,29;Folarin Balogun - 21;Yehvann Diouf
+L1_MOP_12;L1_1;3;50;Montpellier;fr FRA;12;38;15;5;18;65;62;3;50;1.32;13,804;Elye Wahi - 19;Benjamin Lecomte
+LL_MAL_22;LL_1;3;51;Mallorca;es ESP;9;38;14;8;16;37;43;-6;50;1.32;14,799;Vedat Muriqi - 15;Predrag Rajković
+LL_GIR_25;LL_1;3;52;Girona;es ESP;10;38;13;10;15;58;55;3;49;45686;11,471;Valentín Castellanos - 13;Paulo Gazzaniga
+LL_SEV_17;LL_1;3;53;Sevilla;es ESP;12;38;13;10;15;47;54;-7;49;45686;35,566;Youssef En-Nesyri - 8;Yassine Bounou
+LL_RAY_23;LL_1;3;54;Rayo Vallecano;es ESP;11;38;13;10;15;45;53;-8;49;45686;12,525;Isaac Palazón Camacho - 9;Stole Dimitrievski
+BL_GLA_7;BL_1;3;55;Gladbach;de GER;10;34;11;10;13;52;55;-3;43;45683;52,378;Marcus Thuram - 13;Jonas Omlin
+L1_TOU_25;L1_1;3;56;Toulouse;fr FRA;13;38;13;9;16;51;57;-6;48;45683;23,966;Thijs Dallinga - 12;Maxime Dupé
+BL_KÖL_11;BL_1;3;57;Köln;de GER;11;34;10;12;12;49;54;-5;42;45681;49,765;Ellyes Skhiri - 7;Marvin Schwäbe
+SA_UDN_20;SA_1;3;58;Udinese;it ITA;12;38;11;13;14;47;48;-1;46;45678;21,616;Beto - 10;Marco Silvestri
+PL_CRY_7;PL_1;3;59;Crystal Palace;eng ENG;11;38;11;12;15;40;49;-9;45;45675;24,952;Eberechi Eze - 10;Vicente Guaita
+SA_SAS_17;SA_1;3;60;Sassuolo;it ITA;13;38;12;9;17;47;61;-14;45;45675;13,011;Domenico Berardi - 12;Andrea Consigli
+PL_CHE_6;PL_1;3;61;Chelsea;eng ENG;12;38;11;11;16;38;47;-9;44;45673;40,002;Kai Havertz - 7;Kepa Arrizabalaga
+L1_BRE_3;L1_1;3;62;Brest;fr FRA;14;38;11;11;16;44;54;-10;44;45673;12,667;Jérémy Le Douaron - 10;Marco Bizot
+LL_CEL_7;LL_1;3;63;Celta Vigo;es ESP;13;38;11;10;17;43;53;-10;43;45670;14,425;Iago Aspas - 12;Agustín Marchesín, Iván Villar
+SA_EMP_21;SA_1;3;64;Empoli;it ITA;14;38;10;13;15;37;49;-12;43;45670;9,808;Nicolò Cambiaghi - 6;Guglielmo Vicario
+LL_VAL_18;LL_1;3;65;Valencia;es ESP;16;38;11;9;18;42;45;-3;42;45668;40,602;Samuel Lino, Justin Kluivert - 6;Giorgi Mamardashvili
+LL_GET_10;LL_1;3;66;Getafe;es ESP;15;38;10;12;16;34;45;-11;42;45668;11,592;Enes Ünal - 14;David Soria
+SA_SAL_22;SA_1;3;67;Salernitana;it ITA;15;38;9;15;14;48;62;-14;42;45668;20,082;Boulaye Dia - 16;Guillermo Ochoa
+LL_CAD_6;LL_1;3;68;Cádiz;es ESP;14;38;10;12;16;30;53;-23;42;45668;17,741;Theo Bongonda, Gonzalo Escalante - 4;Jeremías Ledesma
+LL_ALM_24;LL_1;3;69;Almería;es ESP;17;38;11;8;19;49;65;-16;41;45665;12,961;El Bilal Touré - 7;Fernando
+PL_WOL_20;PL_1;3;70;Wolves;eng ENG;13;38;11;8;19;31;58;-27;41;45665;31,482;Rúben Neves, Daniel Podence - 6;José Sá
+BL_HOF_9;BL_1;3;71;Hoffenheim;de GER;12;34;10;6;18;48;57;-9;36;45663;24,625;Andrej Kramarić - 12;Oliver Baumann
+BL_BRE_18;BL_1;3;72;Werder Bremen;de GER;13;34;10;6;18;51;64;-13;36;45663;41,556;Niclas Füllkrug - 16;Jiří Pavlenka
+L1_STR_20;L1_1;3;73;Strasbourg;fr FRA;15;38;9;13;16;51;59;-8;40;45662;25,278;Habib Diallo - 20;Matz Sels
+PL_WES_19;PL_1;3;74;West Ham;eng ENG;14;38;11;7;20;42;55;-13;40;45662;62,462;Saïd Benrahma, Jarrod Bowen - 6;Łukasz Fabiański
+LL_VLD_19;LL_1;3;75;Valladolid;es ESP;18;38;11;7;20;33;63;-30;40;45662;20,943;Cyle Larin - 8;Jordi Masip
+BL_BOC_20;BL_1;3;76;Bochum;de GER;14;34;10;5;19;40;72;-32;35;45660;25,318;Philipp Hofmann - 8;Manuel Riemann
+PL_BOU_3;PL_1;3;77;Bournemouth;eng ENG;15;38;11;6;21;37;71;-34;39;45660;10,362;Philip Billing - 7;Neto
+BL_AUG_2;BL_1;3;78;Augsburg;de GER;15;34;9;7;18;42;63;-21;34;1.00;27,956;Mergim Berisha - 9;Rafał Gikiewicz
+PL_NOT_16;PL_1;3;79;Nott'ham Forest;eng ENG;16;38;9;11;18;38;68;-30;38;1.00;29,188;Taiwo Awoniyi - 10;Dean Henderson
+BL_STU_16;BL_1;3;80;Stuttgart;de GER;16;34;7;12;15;45;57;-12;33;0.97;46,541;Serhou Guirassy - 11;Florian Müller
+LL_ESP_21;LL_1;3;81;Espanyol;es ESP;19;38;8;13;17;52;69;-17;37;0.97;21,601;Joselu - 16;Fernando Pacheco
+SA_LEC_25;SA_1;3;82;Lecce;it ITA;16;38;8;12;18;33;46;-13;36;0.95;24,654;Gabriel Strefezza - 8;Wladimiro Falcone
+L1_NAN_13;L1_1;3;83;Nantes;fr FRA;16;38;7;15;16;37;55;-18;36;0.95;30,002;Mostafa Mohamed - 8;Alban Lafont
+PL_EVE_8;PL_1;3;84;Everton;eng ENG;17;38;8;12;18;34;57;-23;36;0.95;39,243;Dwight McNeil - 7;Jordan Pickford
+L1_AUX_24;L1_1;3;85;Auxerre;fr FRA;17;38;8;11;19;35;63;-28;35;0.92;15,606;M'Baye Niang - 6;Benoît Costil
+BL_SCH_15;BL_1;3;86;Schalke 04;de GER;17;34;7;10;17;35;71;-36;31;0.91;61,133;Marius Bülter - 11;Alexander Schwolow
+PL_LEI_11;PL_1;3;87;Leicester City;eng ENG;18;38;9;7;22;51;68;-17;34;0.89;31,887;Harvey Barnes - 13;Danny Ward
+BL_HER_8;BL_1;3;88;Hertha BSC;de GER;18;34;7;8;19;42;69;-27;29;0.85;53,67;Dodi Lukebakio - 11;Oliver Christensen
+SA_HEL_8;SA_1;3;89;Hellas Verona;it ITA;18;38;7;10;21;31;59;-28;31;0.82;18,752;Simone Verdi - 5;Lorenzo Montipò
+PL_LEE_24;PL_1;3;90;Leeds United;eng ENG;19;38;7;10;21;48;78;-30;31;0.82;36,566;Rodrigo - 13;Illan Meslier
+SA_SPZ_18;SA_1;3;91;Spezia;it ITA;17;38;6;13;19;31;62;-31;31;0.82;9,258;M'Bala Nzola - 13;Bartłomiej Drągowski
+SA_CRM_24;SA_1;3;92;Cremonese;it ITA;19;38;5;12;21;36;69;-33;27;0.71;11,978;Daniel Ciofani - 8;Marco Carnesecchi
+L1_AJA_23;L1_1;3;93;Ajaccio;fr FRA;18;38;7;5;26;23;74;-51;26;0.68;7,369;Youcef Belaïli, Mounaim El Idrissy - 6;Benjamin Leroy
+PL_SOU_17;PL_1;3;94;Southampton;eng ENG;20;38;6;7;25;36;73;-37;25;0.66;30,44;James Ward-Prowse - 9;Gavin Bazunu
+LL_ELC_9;LL_1;3;95;Elche;es ESP;20;38;5;10;23;30;67;-37;25;0.66;19,875;Lucas Boyé - 7;Édgar Badía
+L1_TRO_22;L1_1;3;96;Troyes;fr FRA;19;38;4;12;22;45;81;-36;24;0.63;10,004;Mama Samba Baldé - 12;Gauthier Gallon
+SA_SAP_16;SA_1;3;97;Sampdoria;it ITA;20;38;3;10;25;24;71;-47;19;0.50;20,133;Manolo Gabbiadini - 7;Emil Audero
+L1_ANG_1;L1_1;3;98;Angers;fr FRA;20;38;4;6;28;33;81;-48;18;0.47;9,63;Abdallah Sima - 5;Paul Bernardoni
+PL_MCI_13;PL_1;2;1;Manchester City;eng ENG;1;38;29;6;3;99;26;73;93;2.45;52,774;Kevin De Bruyne - 15;Ederson
+PL_LIV_12;PL_1;2;2;Liverpool;eng ENG;2;38;28;8;2;94;26;68;92;2.42;53,352;Mohamed Salah - 23;Alisson
+BL_BAY_3;BL_1;2;3;Bayern Munich;de GER;1;34;24;5;5;97;37;60;77;45714;33,176;Robert Lewandowski - 35;Manuel Neuer
+L1_PSG_16;L1_1;2;4;Paris S-G;fr FRA;1;38;26;8;4;90;36;54;86;45714;41,589;Kylian Mbappé - 28;Keylor Navas
+LL_RMA_15;LL_1;2;5;Real Madrid;es ESP;1;38;26;8;4;80;31;49;86;45714;41,235;Karim Benzema - 27;Thibaut Courtois
+SA_MIL_12;SA_1;2;6;Milan;it ITA;1;38;26;8;4;69;31;38;86;45714;44,015;Olivier Giroud, Rafael Leão - 11;Mike Maignan
+SA_INT_9;SA_1;2;7;Inter;it ITA;2;38;25;9;4;84;32;52;84;45709;44,473;Lautaro Martínez - 21;Samir Handanović
+SA_NAP_13;SA_1;2;8;Napoli;it ITA;3;38;24;7;7;74;31;43;79;45696;28,119;Victor Osimhen - 14;David Ospina
+BL_BVB_4;BL_1;2;9;Dortmund;de GER;2;34;22;3;9;85;52;33;69;45691;41,8;Erling Haaland - 22;Gregor Kobel
+PL_CHE_6;PL_1;2;10;Chelsea;eng ENG;3;38;21;11;6;76;33;43;74;1.95;36,443;Mason Mount - 11;Edouard Mendy
+LL_BAR_4;LL_1;2;11;Barcelona;es ESP;2;38;21;10;7;68;38;30;73;1.92;53,982;Memphis - 12;Marc-André ter Stegen
+BL_LEV_12;BL_1;2;12;Leverkusen;de GER;3;34;19;7;8;80;47;33;64;1.88;17,356;Patrik Schick - 24;Lukáš Hrádecký
+PL_TOT_18;PL_1;2;13;Tottenham;eng ENG;4;38;22;5;11;69;40;29;71;1.87;56,523;Son Heung-min - 23;Hugo Lloris
+L1_MAR_9;L1_1;2;14;Marseille;fr FRA;2;38;21;8;9;63;38;25;71;1.87;51,755;Dimitri Payet - 12;Pau López
+LL_ATM_3;LL_1;2;15;Atlético Madrid;es ESP;3;38;21;8;9;65;43;22;71;1.87;48,039;Ángel Correa - 12;Jan Oblak
+LL_SEV_17;LL_1;2;16;Sevilla;es ESP;4;38;18;16;4;53;30;23;70;1.84;29,756;Rafa Mir - 10;Yassine Bounou
+SA_JUV_10;SA_1;2;17;Juventus;it ITA;4;38;20;10;8;57;37;20;70;1.84;22,621;Paulo Dybala - 10;Wojciech Szczęsny
+L1_MON_11;L1_1;2;18;Monaco;fr FRA;3;38;20;9;9;65;40;25;69;1.82;5,877;Wissam Ben Yedder - 25;Alexander Nübel
+PL_ARS_1;PL_1;2;19;Arsenal;eng ENG;5;38;22;3;13;61;48;13;69;1.82;59,665;Bukayo Saka - 11;Aaron Ramsdale
+L1_REN_18;L1_1;2;20;Rennes;fr FRA;4;38;20;6;12;82;40;42;66;1.74;25,493;Martin Terrier - 21;Alfred Gomis
+L1_NIC_14;L1_1;2;21;Nice;fr FRA;5;38;20;7;11;52;36;16;66;1.74;16,055;Andy Delort - 16;Walter Benítez
+BL_LEI_14;BL_1;2;22;RB Leipzig;de GER;4;34;17;7;10;72;37;35;58;1.71;22,124;Christopher Nkunku - 20;Péter Gulácsi
+LL_BET_5;LL_1;2;23;Betis;es ESP;5;38;19;8;11;62;40;22;65;1.71;41,749;Juanmi - 16;Rui Silva
+SA_LAZ_11;SA_1;2;24;Lazio;it ITA;5;38;18;10;10;77;58;19;64;1.68;23,263;Ciro Immobile - 27;Thomas Strakosha
+BL_UNI_17;BL_1;2;25;Union Berlin;de GER;5;34;16;9;9;50;44;6;57;1.68;14,046;Taiwo Awoniyi - 15;Andreas Luthe
+L1_STR_20;L1_1;2;26;Strasbourg;fr FRA;6;38;17;12;9;60;43;17;63;1.66;23,555;Ludovic Ajorque - 12;Matz Sels
+SA_ROM_15;SA_1;2;27;Roma;it ITA;6;38;18;9;11;59;43;16;63;1.66;41,929;Tammy Abraham - 17;Rui Patrício
+L1_LEN_5;L1_1;2;28;Lens;fr FRA;7;38;17;11;10;62;48;14;62;1.63;28,95;Arnaud Kalimuendo - 12;Jean-Louis Leca
+SA_FIR_6;SA_1;2;29;Fiorentina;it ITA;7;38;19;5;14;59;51;8;62;1.63;21,107;Dušan Vlahović - 17;Pietro Terracciano
+LL_RSC_16;LL_1;2;30;Real Sociedad;es ESP;6;38;17;11;10;40;37;3;62;1.63;26,813;Mikel Oyarzabal - 9;Álex Remiro
+BL_FRE_6;BL_1;2;31;Freiburg;de GER;6;34;15;10;9;58;46;12;55;1.62;18,741;Vincenzo Grifo - 9;Mark Flekken
+L1_LYO_8;L1_1;2;32;Lyon;fr FRA;8;38;17;11;10;66;51;15;61;1.61;32,329;Moussa Dembélé - 21;Anthony Lopes
+LL_VLR_20;LL_1;2;33;Villarreal;es ESP;7;38;16;11;11;63;37;26;59;1.55;14,293;Arnaut Danjuma - 10;Gerónimo Rulli
+SA_ATL_1;SA_1;2;34;Atalanta;it ITA;8;38;16;11;11;65;48;17;59;1.55;10,447;Mario Pašalić - 13;Juan Musso
+BL_KÖL_11;BL_1;2;35;Köln;de GER;7;34;14;10;10;52;49;3;52;1.53;31,965;Anthony Modeste - 20;Marvin Schwäbe
+PL_MUN_14;PL_1;2;36;Manchester Utd;eng ENG;6;38;16;10;12;57;57;0;58;1.53;73,15;Cristiano Ronaldo - 18;David de Gea
+PL_WES_19;PL_1;2;37;West Ham;eng ENG;7;38;16;8;14;60;51;9;56;1.47;58,37;Jarrod Bowen - 12;Łukasz Fabiański
+LL_BIL_2;LL_1;2;38;Athletic Club;es ESP;8;38;14;13;11;43;36;7;55;1.45;32,949;Iñaki Williams - 8;Unai Simón
+L1_NAN_13;L1_1;2;39;Nantes;fr FRA;9;38;15;10;13;55;48;7;55;1.45;20,803;Randal Kolo Muani - 12;Alban Lafont
+L1_LIL_6;L1_1;2;40;Lille;fr FRA;10;38;14;13;11;48;48;0;55;1.45;34,346;Jonathan David - 15;Ivo Grbić
+SA_HEL_8;SA_1;2;41;Hellas Verona;it ITA;9;38;14;11;13;65;59;6;53;1.39;13,894;Giovanni Simeone - 17;Lorenzo Montipò
+PL_LEI_11;PL_1;2;42;Leicester City;eng ENG;8;38;14;10;14;62;59;3;52;1.37;32,493;Jamie Vardy - 15;Kasper Schmeichel
+BL_MAI_13;BL_1;2;43;Mainz 05;de GER;8;34;13;7;14;50;45;5;46;1.35;17,978;Jonathan Burkardt - 11;Robin Zentner
+BL_HOF_9;BL_1;2;44;Hoffenheim;de GER;9;34;13;7;14;58;60;-2;46;1.35;11,227;Georginio Rutter - 8;Oliver Baumann
+PL_BRI_5;PL_1;2;45;Brighton;eng ENG;9;38;12;15;11;42;44;-2;51;1.34;30,966;Leandro Trossard, Neal Maupay - 8;Robert Sánchez
+PL_WOL_20;PL_1;2;46;Wolves;eng ENG;10;38;15;6;17;38;43;-5;51;1.34;30,841;Raúl Jiménez - 6;José Sá
+SA_TOR_19;SA_1;2;47;Torino;it ITA;10;38;13;11;14;46;41;5;50;1.32;9,846;Andrea Belotti - 8;Vanja Milinković-Savić
+SA_SAS_17;SA_1;2;48;Sassuolo;it ITA;11;38;13;11;14;64;66;-2;50;1.32;8,362;Gianluca Scamacca - 16;Andrea Consigli
+BL_GLA_7;BL_1;2;49;Gladbach;de GER;10;34;12;9;13;54;61;-7;45;1.32;26,539;Jonas Hofmann - 12;Yann Sommer
+PL_NEW_15;PL_1;2;50;Newcastle Utd;eng ENG;11;38;13;10;15;44;62;-18;49;45686;51,487;Callum Wilson - 8;Martin Dúbravka
+PL_CRY_7;PL_1;2;51;Crystal Palace;eng ENG;12;38;11;15;12;50;46;4;48;45683;24,588;Wilfried Zaha - 14;Vicente Guaita
+LL_VAL_18;LL_1;2;52;Valencia;es ESP;9;38;11;15;12;48;53;-5;48;45683;27,349;Gonçalo Guedes, Carlos Soler - 11;Giorgi Mamardashvili
+L1_BRE_3;L1_1;2;53;Brest;fr FRA;11;38;13;9;16;49;57;-8;48;45683;11,804;Franck Honorat - 11;Marco Bizot
+SA_UDN_20;SA_1;2;54;Udinese;it ITA;12;38;11;14;13;61;58;3;47;45681;12,144;Gerard Deulofeu - 13;Marco Silvestri
+BL_FRA_5;BL_1;2;55;Eint Frankfurt;de GER;11;34;10;12;12;45;49;-4;42;45681;26,162;Rafael Borré - 8;Kevin Trapp
+BL_WOL_19;BL_1;2;56;Wolfsburg;de GER;12;34;12;6;16;43;54;-11;42;45681;12,018;Lukas Nmecha - 8;Koen Casteels
+LL_OSA_14;LL_1;2;57;Osasuna;es ESP;10;38;12;11;15;37;51;-14;47;45681;17,107;Ante Budimir - 8;Sergio Herrera
+BL_BOC_20;BL_1;2;58;Bochum;de GER;13;34;12;6;16;38;52;-14;42;45681;15,125;Sebastian Polter - 10;Manuel Riemann
+LL_CEL_7;LL_1;2;59;Celta Vigo;es ESP;11;38;12;10;16;43;43;0;46;45678;10,014;Iago Aspas - 18;Matías Dituro
+L1_REI_17;L1_1;2;60;Reims;fr FRA;12;38;11;13;14;43;44;-1;46;45678;11,071;Hugo Ekitike - 10;Predrag Rajković
+PL_BRE_4;PL_1;2;61;Brentford;eng ENG;13;38;13;7;18;48;56;-8;46;45678;16,918;Ivan Toney - 12;David Raya
+SA_BOL_3;SA_1;2;62;Bologna;it ITA;13;38;12;10;16;44;55;-11;46;45678;14,158;Marko Arnautović - 14;Łukasz Skorupski
+PL_AST_2;PL_1;2;63;Aston Villa;eng ENG;14;38;13;6;19;52;54;-2;45;45675;41,681;Ollie Watkins - 11;Emiliano Martínez
+L1_MOP_12;L1_1;2;64;Montpellier;fr FRA;13;38;12;7;19;49;61;-12;43;45670;10,711;Elye Wahi - 10;Jonas Omlin
+BL_AUG_2;BL_1;2;65;Augsburg;de GER;14;34;10;8;16;39;56;-17;38;45669;15,197;Michael Gregoritsch - 9;Rafał Gikiewicz
+LL_RAY_23;LL_1;2;66;Rayo Vallecano;es ESP;12;38;11;9;18;39;50;-11;42;45668;7,866;Sergi Guardiola - 8;Stole Dimitrievski
+LL_ELC_9;LL_1;2;67;Elche;es ESP;13;38;11;9;18;40;52;-12;42;45668;15,64;Pere Milla - 8;Édgar Badía
+LL_ESP_21;LL_1;2;68;Espanyol;es ESP;14;38;10;12;16;40;53;-13;42;45668;17,362;Raúl de Tomás - 17;Diego López
+L1_ANG_1;L1_1;2;69;Angers;fr FRA;14;38;10;11;17;44;55;-11;41;45665;7,758;Sofiane Boufal - 8;Danijel Petković
+SA_EMP_21;SA_1;2;70;Empoli;it ITA;14;38;10;11;17;50;70;-20;41;45665;6,356;Andrea Pinamonti - 13;Guglielmo Vicario
+PL_SOU_17;PL_1;2;71;Southampton;eng ENG;15;38;9;13;16;43;67;-24;40;45662;30,134;James Ward-Prowse - 10;Fraser Forster
+LL_GET_10;LL_1;2;72;Getafe;es ESP;15;38;8;15;15;33;41;-8;39;45660;8,702;Enes Ünal - 16;David Soria
+LL_CAD_6;LL_1;2;73;Cádiz;es ESP;17;38;8;15;15;35;51;-16;39;45660;14,055;Anthony Lozano, Álvaro Negredo - 7;Jeremías Ledesma
+PL_EVE_8;PL_1;2;74;Everton;eng ENG;16;38;11;6;21;43;66;-23;39;45660;38,446;Richarlison - 10;Jordan Pickford
+LL_MAL_22;LL_1;2;75;Mallorca;es ESP;16;38;10;9;19;36;63;-27;39;45660;12,712;Vedat Muriqi, Salva Sevilla - 5;Manolo Reina
+L1_TRO_22;L1_1;2;76;Troyes;fr FRA;15;38;9;11;18;37;53;-16;38;1.00;9,491;Xavier Chavalerin, Ike Ugbo - 5;Gauthier Gallon
+LL_GRA_11;LL_1;2;77;Granada;es ESP;18;38;8;14;16;44;61;-17;38;1.00;13,71;Jorge Molina - 10;Luís Maximiano
+PL_LEE_24;PL_1;2;78;Leeds United;eng ENG;17;38;9;11;18;42;79;-37;38;1.00;36,308;Raphinha - 11;Illan Meslier
+BL_STU_16;BL_1;2;79;Stuttgart;de GER;15;34;7;12;15;41;59;-18;33;0.97;27,052;Sasa Kalajdzic - 6;Florian Müller
+BL_HER_8;BL_1;2;80;Hertha BSC;de GER;16;34;9;6;19;37;71;-34;33;0.97;23,5;Stevan Jovetić - 6;Alexander Schwolow
+SA_SAP_16;SA_1;2;81;Sampdoria;it ITA;15;38;10;6;22;46;63;-17;36;0.95;9,417;Francesco Caputo - 11;Emil Audero
+L1_LOR_7;L1_1;2;82;Lorient;fr FRA;16;38;8;12;18;35;63;-28;36;0.95;12,738;Terem Moffi - 8;Paul Nardi
+SA_SPZ_18;SA_1;2;83;Spezia;it ITA;16;38;10;6;22;41;71;-30;36;0.95;6,709;Daniele Verde - 8;Ivan Provedel
+L1_CLE_21;L1_1;2;84;Clermont Foot;fr FRA;17;38;9;9;20;38;69;-31;36;0.95;10,569;Mohamed Lamine Bayo - 14;Ouparine Djoco
+PL_BUR_21;PL_1;2;85;Burnley;eng ENG;18;38;7;14;17;34;53;-19;35;0.92;19,278;Maxwel Cornet - 9;Nick Pope
+LL_LEV_13;LL_1;2;86;Levante;es ESP;19;38;8;11;19;51;76;-25;35;0.92;14,961;José Luis Morales - 13;Dani Cárdenas
+L1_SAI_19;L1_1;2;87;Saint-Étienne;fr FRA;18;38;7;11;20;42;77;-35;32;0.84;21,806;Wahbi Khazri - 10;Paul Bernardoni
+BL_ARM_1;BL_1;2;88;Arminia;de GER;17;34;5;13;16;27;53;-26;28;0.82;16,773;Masaya Okugawa - 8;Stefan Ortega
+LL_ALA_1;LL_1;2;89;Alavés;es ESP;20;38;8;7;23;31;65;-34;31;0.82;10,952;Joselu - 14;Fernando Pacheco
+L1_MET_10;L1_1;2;90;Metz;fr FRA;19;38;6;13;19;35;69;-34;31;0.82;14,876;Nicolas de Préville - 5;Alexandre Oukidja
+L1_BOR_2;L1_1;2;91;Bordeaux;fr FRA;20;38;6;13;19;52;91;-39;31;0.82;22,141;Hwang Ui-jo - 11;Benoît Costil
+SA_SAL_22;SA_1;2;92;Salernitana;it ITA;17;38;7;10;21;33;78;-45;31;0.82;15,073;Federico Bonazzoli - 10;Vid Belec
+SA_CAL_4;SA_1;2;93;Cagliari;it ITA;18;38;6;12;20;34;68;-34;30;0.79;9,718;João Pedro - 13;Alessio Cragno
+SA_GEO_7;SA_1;2;94;Genoa;it ITA;19;38;4;16;18;27;60;-33;28;0.74;12,326;Mattia Destro - 9;Salvatore Sirigu
+SA_VEN_23;SA_1;2;95;Venezia;it ITA;20;38;6;9;23;34;69;-35;27;0.71;6,648;Thomas Henry - 9;Niki Mäenpää
+PL_WAT_26;PL_1;2;96;Watford;eng ENG;19;38;6;5;27;34;77;-43;23;0.61;20,614;Emmanuel Dennis - 10;Ben Foster
+PL_NOR_25;PL_1;2;97;Norwich City;eng ENG;20;38;5;7;26;23;84;-61;22;0.58;26,836;Teemu Pukki - 11;Tim Krul
+BL_FÜR_21;BL_1;2;98;Greuther Fürth;de GER;18;34;3;9;22;28;82;-54;18;0.53;7,672;Branimir Hrgota - 9;Sascha Burchert
+SA_INT_9;SA_1;1;1;Inter;it ITA;1;38;28;7;3;89;35;54;91;2.39;158;Romelu Lukaku - 24;Samir Handanović
+BL_BAY_3;BL_1;1;2;Bayern Munich;de GER;1;34;24;6;4;99;44;55;78;2.29;15;Robert Lewandowski - 41;Manuel Neuer
+PL_MCI_13;PL_1;1;3;Manchester City;eng ENG;1;38;27;5;6;83;32;51;86;45714;526;İlkay Gündoğan - 13;Ederson
+LL_ATM_3;LL_1;1;4;Atlético Madrid;es ESP;1;38;26;8;4;67;25;42;86;45714;;Luis Suárez - 21;Jan Oblak
+LL_RMA_15;LL_1;1;5;Real Madrid;es ESP;2;38;25;9;4;67;28;39;84;45709;;Karim Benzema - 23;Thibaut Courtois
+L1_LIL_6;L1_1;1;6;Lille;fr FRA;1;38;24;11;3;64;23;41;83;45706;209;Burak Yılmaz - 16;Mike Maignan
+L1_PSG_16;L1_1;1;7;Paris S-G;fr FRA;2;38;26;4;8;86;28;58;82;45704;;Kylian Mbappé - 27;Keylor Navas
+LL_BAR_4;LL_1;1;8;Barcelona;es ESP;3;38;24;7;7;85;38;47;79;45696;;Lionel Messi - 30;Marc-André ter Stegen
+SA_MIL_12;SA_1;1;9;Milan;it ITA;2;38;24;7;7;74;41;33;79;45696;105;Zlatan Ibrahimović - 15;Gianluigi Donnarumma
+SA_ATL_1;SA_1;1;10;Atalanta;it ITA;3;38;23;9;6;90;47;43;78;45693;105;Luis Muriel - 22;Pierluigi Gollini
+SA_JUV_10;SA_1;1;11;Juventus;it ITA;4;38;23;9;6;77;38;39;78;45693;105;Cristiano Ronaldo - 29;Wojciech Szczęsny
+L1_MON_11;L1_1;1;12;Monaco;fr FRA;3;38;24;6;8;76;42;34;78;45693;;Wissam Ben Yedder - 20;Benjamin Lecomte
+SA_NAP_13;SA_1;1;13;Napoli;it ITA;5;38;24;5;9;86;41;45;77;45691;105;Lorenzo Insigne - 19;Alex Meret
+LL_SEV_17;LL_1;1;14;Sevilla;es ESP;4;38;24;5;9;53;33;20;77;45691;;Youssef En-Nesyri - 18;Yassine Bounou
+L1_LYO_8;L1_1;1;15;Lyon;fr FRA;4;38;22;10;6;81;43;38;76;2.00;231;Memphis - 20;Anthony Lopes
+PL_MUN_14;PL_1;1;16;Manchester Utd;eng ENG;2;38;21;11;6;73;44;29;74;1.95;526;Bruno Fernandes - 18;David de Gea
+BL_LEI_14;BL_1;1;17;RB Leipzig;de GER;2;34;19;8;7;60;32;28;65;1.91;1,059;Marcel Sabitzer - 8;Péter Gulácsi
+BL_BVB_4;BL_1;1;18;Dortmund;de GER;3;34;20;4;10;75;46;29;64;1.88;1,241;Erling Haaland - 27;Roman Bürki
+PL_LIV_12;PL_1;1;19;Liverpool;eng ENG;3;38;20;9;9;68;42;26;69;1.82;837;Mohamed Salah - 22;Alisson
+BL_WOL_19;BL_1;1;20;Wolfsburg;de GER;4;34;17;10;7;61;37;24;61;1.79;538;Wout Weghorst - 20;Koen Casteels
+SA_LAZ_11;SA_1;1;21;Lazio;it ITA;6;38;21;5;12;61;55;6;68;1.79;158;Ciro Immobile - 20;Pepe Reina
+PL_CHE_6;PL_1;1;22;Chelsea;eng ENG;4;38;19;10;9;58;36;22;67;1.76;526;Jorginho - 7;Edouard Mendy
+BL_FRA_5;BL_1;1;23;Eint Frankfurt;de GER;5;34;16;12;6;69;53;16;60;1.76;853;André Silva - 28;Kevin Trapp
+PL_LEI_11;PL_1;1;24;Leicester City;eng ENG;5;38;20;6;12;68;50;18;66;1.74;421;Jamie Vardy - 15;Kasper Schmeichel
+PL_WES_19;PL_1;1;25;West Ham;eng ENG;6;38;19;8;11;62;47;15;65;1.71;632;Michail Antonio, Tomáš Souček - 10;Łukasz Fabiański
+PL_TOT_18;PL_1;1;26;Tottenham;eng ENG;7;38;18;8;12;68;45;23;62;1.63;632;Harry Kane - 23;Hugo Lloris
+LL_RSC_16;LL_1;1;27;Real Sociedad;es ESP;5;38;17;11;10;59;38;21;62;1.63;;Alexander Isak - 17;Álex Remiro
+SA_ROM_15;SA_1;1;28;Roma;it ITA;7;38;18;8;12;68;58;10;62;1.63;105;Henrikh Mkhitaryan - 13;Pau López
+SA_SAS_17;SA_1;1;29;Sassuolo;it ITA;8;38;17;11;10;64;56;8;62;1.63;134;Domenico Berardi - 17;Andrea Consigli
+PL_ARS_1;PL_1;1;30;Arsenal;eng ENG;8;38;18;7;13;55;39;16;61;1.61;632;Alexandre Lacazette - 13;Bernd Leno
+LL_BET_5;LL_1;1;31;Betis;es ESP;6;38;17;10;11;50;50;0;61;1.61;;Borja Iglesias - 11;Claudio Bravo
+L1_MAR_9;L1_1;1;32;Marseille;fr FRA;5;38;16;12;10;54;47;7;60;1.58;;Arkadiusz Milik - 9;Steve Mandanda
+PL_LEE_24;PL_1;1;33;Leeds United;eng ENG;9;38;18;5;15;62;54;8;59;1.55;421;Patrick Bamford - 17;Illan Meslier
+PL_EVE_8;PL_1;1;34;Everton;eng ENG;10;38;17;8;13;47;48;-1;59;1.55;368;Dominic Calvert-Lewin - 16;Jordan Pickford
+LL_VLR_20;LL_1;1;35;Villarreal;es ESP;7;38;15;13;10;60;44;16;58;1.53;253;Gerard Moreno - 23;Sergio Asenjo
+BL_LEV_12;BL_1;1;36;Leverkusen;de GER;6;34;14;10;10;53;39;14;52;1.53;355;Lucas Alario - 11;Lukáš Hrádecký
+L1_REN_18;L1_1;1;37;Rennes;fr FRA;6;38;16;10;12;52;40;12;58;1.53;;Serhou Guirassy - 10;Alfred Gomis
+L1_LEN_5;L1_1;1;38;Lens;fr FRA;7;38;15;12;11;55;54;1;57;1.50;;Gaël Kakuta - 11;Jean-Louis Leca
+BL_UNI_17;BL_1;1;39;Union Berlin;de GER;7;34;12;14;8;50;43;7;50;1.47;912;Max Kruse - 11;Andreas Luthe
+PL_AST_2;PL_1;1;40;Aston Villa;eng ENG;11;38;16;7;15;55;46;9;55;1.45;526;Ollie Watkins - 14;Emiliano Martínez
+BL_GLA_7;BL_1;1;41;Gladbach;de GER;8;34;13;10;11;64;56;8;49;1.44;628;Lars Stindl - 14;Yann Sommer
+L1_MOP_12;L1_1;1;42;Montpellier;fr FRA;8;38;14;12;12;60;62;-2;54;1.42;;Gaëtan Laborde - 16;Jonas Omlin
+LL_CEL_7;LL_1;1;43;Celta Vigo;es ESP;8;38;14;11;13;55;57;-2;53;1.39;91;Iago Aspas - 14;Iván Villar
+SA_SAP_16;SA_1;1;44;Sampdoria;it ITA;9;38;15;7;16;52;54;-2;52;1.37;105;Fabio Quagliarella - 13;Emil Audero
+L1_NIC_14;L1_1;1;45;Nice;fr FRA;9;38;15;7;16;50;53;-3;52;1.37;;Amine Gouiri - 12;Walter Benítez
+BL_STU_16;BL_1;1;46;Stuttgart;de GER;9;34;12;9;13;56;55;1;45;1.32;978;Sasa Kalajdzic - 16;Gregor Kobel
+BL_FRE_6;BL_1;1;47;Freiburg;de GER;10;34;12;9;13;52;52;0;45;1.32;188;Vincenzo Grifo - 9;Florian Müller
+BL_HOF_9;BL_1;1;48;Hoffenheim;de GER;11;34;11;10;13;52;54;-2;43;45683;361;Andrej Kramarić - 20;Oliver Baumann
+L1_MET_10;L1_1;1;49;Metz;fr FRA;10;38;12;11;15;44;48;-4;47;45681;498;Farid Boulaya, Ibrahima Niane - 6;Alexandre Oukidja
+LL_BIL_2;LL_1;1;50;Athletic Club;es ESP;10;38;11;13;14;46;42;4;46;45678;;Álex Berenguer - 8;Unai Simón
+L1_SAI_19;L1_1;1;51;Saint-Étienne;fr FRA;11;38;12;10;16;42;54;-12;46;45678;;Wahbi Khazri, Denis Bouanga - 7;Jessy Moulin
+LL_GRA_11;LL_1;1;52;Granada;es ESP;9;38;13;7;18;47;65;-18;46;45678;;Roberto Soldado - 9;Rui Silva
+SA_HEL_8;SA_1;1;53;Hellas Verona;it ITA;10;38;11;12;15;46;48;-2;45;45675;611;Antonín Barák - 7;Marco Silvestri
+L1_BOR_2;L1_1;1;54;Bordeaux;fr FRA;12;38;13;6;19;42;56;-14;45;45675;;Hwang Ui-jo - 12;Benoît Costil
+PL_WOL_20;PL_1;1;55;Wolves;eng ENG;13;38;12;9;17;36;52;-16;45;45675;237;Rúben Neves, Pedro Neto - 5;Rui Patrício
+PL_NEW_15;PL_1;1;56;Newcastle Utd;eng ENG;12;38;12;9;17;46;62;-16;45;45675;526;Callum Wilson - 12;Karl Darlow
+LL_OSA_14;LL_1;1;57;Osasuna;es ESP;11;38;11;11;16;37;48;-11;44;45673;;Ante Budimir - 11;Sergio Herrera
+L1_ANG_1;L1_1;1;58;Angers;fr FRA;13;38;12;8;18;40;58;-18;44;45673;;Angelo Fulgini - 7;Paul Bernardoni
+LL_CAD_6;LL_1;1;59;Cádiz;es ESP;12;38;11;11;16;36;58;-22;44;45673;;Álvaro Negredo - 8;Jeremías Ledesma
+PL_CRY_7;PL_1;1;60;Crystal Palace;eng ENG;14;38;12;8;18;41;66;-25;44;45673;447;Wilfried Zaha - 11;Vicente Guaita
+BL_MAI_13;BL_1;1;61;Mainz 05;de GER;12;34;10;9;15;39;56;-17;39;45672;221;Jean-Philippe Mateta - 7;Robin Zentner
+LL_VAL_18;LL_1;1;62;Valencia;es ESP;13;38;10;13;15;50;53;-3;43;45670;142;Carlos Soler - 11;Jaume Doménech
+PL_SOU_17;PL_1;1;63;Southampton;eng ENG;15;38;12;7;19;47;68;-21;43;45670;526;Danny Ings - 12;Alex McCarthy
+L1_REI_17;L1_1;1;64;Reims;fr FRA;14;38;9;15;14;42;50;-8;42;45668;;Boulaye Dia - 14;Predrag Rajković
+L1_STR_20;L1_1;1;65;Strasbourg;fr FRA;15;38;11;9;18;49;58;-9;42;45668;;Ludovic Ajorque - 16;Eiji Kawashima
+SA_GEO_7;SA_1;1;66;Genoa;it ITA;11;38;10;12;16;47;58;-11;42;45668;53;Mattia Destro - 11;Mattia Perin
+L1_LOR_7;L1_1;1;67;Lorient;fr FRA;16;38;11;9;18;50;68;-18;42;45668;;Terem Moffi - 14;Paul Nardi
+PL_BRI_5;PL_1;1;68;Brighton;eng ENG;16;38;9;14;15;40;46;-6;41;45665;523;Neal Maupay - 8;Robert Sánchez
+LL_LEV_13;LL_1;1;69;Levante;es ESP;14;38;9;14;15;46;57;-11;41;45665;;José Luis Morales - 13;Aitor Fernández
+SA_BOL_3;SA_1;1;70;Bologna;it ITA;12;38;10;11;17;51;65;-14;41;45665;105;Roberto Soriano - 9;Łukasz Skorupski
+L1_BRE_3;L1_1;1;71;Brest;fr FRA;17;38;11;8;19;50;66;-16;41;45665;;Steve Mounié - 9;Gautier Larsonneur
+BL_AUG_2;BL_1;1;72;Augsburg;de GER;13;34;10;6;18;36;54;-18;36;45663;353;André Hahn - 8;Rafał Gikiewicz
+L1_NAN_13;L1_1;1;73;Nantes;fr FRA;18;38;9;13;16;47;55;-8;40;45662;;Ludovic Blas - 10;Alban Lafont
+SA_FIR_6;SA_1;1;74;Fiorentina;it ITA;13;38;9;13;16;47;59;-12;40;45662;105;Dušan Vlahović - 21;Bartłomiej Drągowski
+SA_UDN_20;SA_1;1;75;Udinese;it ITA;14;38;10;10;18;42;58;-16;40;45662;158;Rodrigo De Paul - 9;Juan Musso
+BL_HER_8;BL_1;1;76;Hertha BSC;de GER;14;34;8;11;15;41;52;-11;35;45660;471;Jhon Córdoba, Krzysztof Piątek... - 7;Alexander Schwolow
+SA_SPZ_18;SA_1;1;77;Spezia;it ITA;15;38;9;12;17;52;72;-20;39;45660;105;M'Bala Nzola - 11;Ivan Provedel
+PL_BUR_21;PL_1;1;78;Burnley;eng ENG;17;38;10;9;19;33;55;-22;39;45660;178;Chris Wood - 12;Nick Pope
+BL_ARM_1;BL_1;1;79;Arminia;de GER;15;34;9;8;17;26;52;-26;35;45660;321;Fabian Klos, Ritsu Doan - 5;Stefan Ortega
+LL_GET_10;LL_1;1;80;Getafe;es ESP;15;38;9;11;18;28;43;-15;38;1.00;;Ángel Rodríguez, Jaime Mata - 5;David Soria
+LL_ALA_1;LL_1;1;81;Alavés;es ESP;16;38;9;11;18;36;57;-21;38;1.00;;Joselu - 11;Fernando Pacheco
+SA_CAL_4;SA_1;1;82;Cagliari;it ITA;16;38;9;10;19;43;59;-16;37;0.97;105;João Pedro - 16;Alessio Cragno
+SA_TOR_19;SA_1;1;83;Torino;it ITA;17;38;7;16;15;50;69;-19;37;0.97;105;Andrea Belotti - 13;Salvatore Sirigu
+BL_KÖL_11;BL_1;1;84;Köln;de GER;16;34;8;9;17;34;60;-26;33;0.97;35;Ondrej Duda - 7;Timo Horn
+LL_ELC_9;LL_1;1;85;Elche;es ESP;17;38;8;12;18;34;55;-21;36;0.95;185;Lucas Boyé - 7;Édgar Badía
+L1_NÎM_15;L1_1;1;86;Nîmes;fr FRA;19;38;9;8;21;40;71;-31;35;0.92;;Renaud Ripart - 11;Baptiste Reynet
+BL_BRE_18;BL_1;1;87;Werder Bremen;de GER;17;34;7;10;17;36;57;-21;31;0.91;518;Niclas Füllkrug - 6;Jiří Pavlenka
+LL_HUE_12;LL_1;1;88;Huesca;es ESP;18;38;7;13;18;34;53;-19;34;0.89;;Rafa Mir - 13;Álvaro Fernández
+SA_BEE_2;SA_1;1;89;Benevento;it ITA;18;38;7;12;19;40;75;-35;33;0.87;158;Gianluca Lapadula - 8;Lorenzo Montipò
+LL_VLD_19;LL_1;1;90;Valladolid;es ESP;19;38;5;16;17;34;57;-23;31;0.82;;Fabián Orellana, Shon Weissman - 6;Jordi Masip
+LL_EIB_8;LL_1;1;91;Eibar;es ESP;20;38;6;12;20;29;52;-23;30;0.79;;Kiké - 12;Marko Dmitrović
+PL_FUL_9;PL_1;1;92;Fulham;eng ENG;18;38;5;13;20;27;53;-26;28;0.74;211;Bobby De Cordova-Reid - 5;Alphonse Areola
+PL_WES_27;PL_1;1;93;West Brom;eng ENG;19;38;5;11;22;35;76;-41;26;0.68;283;Matheus Pereira - 11;Sam Johnstone
+PL_SHE_23;PL_1;1;94;Sheffield Utd;eng ENG;20;38;7;2;29;20;63;-43;23;0.61;263;David McGoldrick - 8;Aaron Ramsdale
+SA_CRT_5;SA_1;1;95;Crotone;it ITA;19;38;6;5;27;45;92;-47;23;0.61;53;Simeon Nwankwo - 20;Alex Cordaz
+L1_DIJ_4;L1_1;1;96;Dijon;fr FRA;20;38;4;9;25;25;73;-48;21;0.55;;Mama Samba Baldé - 7;Anthony Racioppi
+SA_PAM_14;SA_1;1;97;Parma;it ITA;20;38;3;11;24;39;83;-44;20;0.53;158;Juraj Kucka, Hernani - 7;Luigi Sepe
+BL_SCH_15;BL_1;1;98;Schalke 04;de GER;18;34;3;7;24;25;86;-61;16;0.47;18;Matthew Hoppe - 6;Ralf Fährmann
